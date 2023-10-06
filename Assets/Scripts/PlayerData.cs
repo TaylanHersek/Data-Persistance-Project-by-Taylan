@@ -32,10 +32,7 @@ public class PlayerData : MonoBehaviour
 
     }
 
-    public void QuitGame()
-    {
-        Application.Quit();
-    }
+    
 
     public void ReadStringInput(string input)
     {
